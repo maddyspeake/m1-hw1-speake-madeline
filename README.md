@@ -1,6 +1,6 @@
 #m1-hw1-speake-madeline
 # My First Coding Assignment
-Markup : ![picture alt]<div class="tenor-gif-embed" data-postid="27400372" data-share-method="host" data-aspect-ratio="1.80791" data-width="100%"><a href="https://tenor.com/view/oranguta-orangutan-driving-wipping-hell-yeah-gif-27400372">Oranguta Orangutan GIF</a>from <a href="https://tenor.com/search/oranguta-gifs">Oranguta GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+Markup : ![picture alt](https://tenor.com/view/oranguta-orangutan-driving-wipping-hell-yeah-gif-27400372)
 ## About Me
 My name is Maddy Speake! I'm 27 years old, live in Tallahassee (but will still chomp this football season), and am from Atlanta. I live with my husband Forrest and my pekingese Howie who is a cheese-loving rascal. My favorite things to do are cook, hike, do NYT puzzles, and be around animals.
 ## Past Coding Experience 
